@@ -1,5 +1,4 @@
 #include "Student.h"
-
 using namespace std;
 
 int binarySearch1(vector<Book> copies, int l, int r, int x);
